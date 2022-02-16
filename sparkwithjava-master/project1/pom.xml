@@ -13,7 +13,7 @@
   
     <scala.version>2.11</scala.version>
     <spark.version>2.3.1</spark.version>
-    <postgresql.version>42.1.4</postgresql.version>
+    <postgresql.version>42.3.3</postgresql.version>
     
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
